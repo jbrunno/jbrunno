@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center"> An eternal student of web development </h2>
 
 <h3 align="center">🚀 Ask me about</h3>
 <p align="center">
